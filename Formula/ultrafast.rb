@@ -5,15 +5,15 @@ class Ultrafast < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/ultrafastmov/ultrafast/releases/download/v0.2.1/ultrafast-0.2.1-aarch64-apple-darwin.tar.gz"
-      sha256 "e33616a1a908fc905bb1afef8fb14adfdef5374e0c0e6c3cbe902fa9fdeed9aa"
+      url "https://github.com/ultrafastmov/ultrafast/releases/download/v0.2.2/ultrafast-0.2.2-aarch64-apple-darwin.tar.gz"
+      sha256 "813cc3fa8bb29a7cea61e4371f65cec4c9fe6c9065c0bcfed1944aed5b8f574b"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/ultrafastmov/ultrafast/releases/download/v0.2.1/ultrafast-0.2.1-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "37ce12111a309f93ae502c49529c8ded19084541a2e5cc74889f1cad9d562c71"
+      url "https://github.com/ultrafastmov/ultrafast/releases/download/v0.2.2/ultrafast-0.2.2-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "41392acd698849509190a525a333ceed5ce5b17f2b89c099c6e8540df7faa5aa"
     end
   end
 
